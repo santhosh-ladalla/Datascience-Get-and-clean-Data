@@ -1,6 +1,6 @@
 ## Getting and Data cleaning- Course project
 
-The goal of this project is to clean up the data provided.The data is from Samsung phone regarding the activity of a experiment sample.The code for this project is available in this repo with the name run_analysis.R .The steps that are followed in the code to maketiday data are below
+The goal of this project is to clean up the data provided.The data is from Samsung phone regarding the activity of a experiment sample.The code for this project is available in this repo with the name run_analysis.R .The steps that are followed in the code to make tidy data are below
 
 * Download the load from the UCI website
 
@@ -29,5 +29,5 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * Write the tidy dataset to a .txt file with write.table command.
 
 
-The final tidy file is clean after going the steps as mentioned above.It contains 81 columns with meaningful descriptive names and evry feature contains information for a subject and activity.The column descriptions can be found in codebook.md
+The final tidy file is clean after going the steps as mentioned above.It contains 81 columns with meaningful descriptive names and every feature contains information for a subject and activity.The column descriptions can be found in codebook.md
 
