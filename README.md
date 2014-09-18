@@ -29,5 +29,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * Write the tidy dataset to a .txt file with write.table command.
 
 
+
 The final tidy file is clean after going the steps as mentioned above.It contains 81 columns with meaningful descriptive names and every feature contains information for a subject and activity.The column descriptions can be found in codebook.md
 
