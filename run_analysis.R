@@ -1,6 +1,7 @@
 ### Coursera Data science course project : Getting and cleaning data
 ### Code by Santhosh Ladalla
-### Git HuB : https://github.com/justmarkham/kaggle-allstate
+### Created date : 09/18/2014
+### Github : https://github.com/santhosh-ladalla/Datascience-Get-and-clean-Data
 
 #Reading features.txt file which contains the features names
   var_names <- read.table("features.txt",sep= " ",col.names=c("id", "name"),fill=FALSE,strip.white=TRUE)
